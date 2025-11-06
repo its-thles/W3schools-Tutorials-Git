@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: #e7e7e7;
+  color: #333;
+}
+
+h1,
+h2 {
+  color: #193f66;
+  text-align: center;
+}
+
+ul.skillset li {
+  display: inline-block;
+  margin-right: 15px;
+  text-decoration: none;
+}
