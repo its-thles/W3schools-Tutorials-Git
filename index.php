@@ -26,14 +26,7 @@
     <hr />
     <h2>Projetos</h2>
     <ul>
-      <li><a href="">República Poliglota</a></li>
-      <li><a href="">República Poliglota - Android App</a></li>
-      <li><a href="">Site Doces da Tia Cris</a></li>
+      <li><a href="/projects/cafeaurora/index.html">Café Aurora - Website</a></li>
     </ul>
   </body>
 </html>
-<?php
-// This is a simple PHP file that serves as the main index page for a front-end developer's project hub.
-// It includes basic HTML structure, metadata, and links to various projects and skill sets. 
-echo "Page loaded successfully.";
-?>
