@@ -29,7 +29,7 @@ O site apresenta as seções principais de um pequeno negócio local, com um toq
 
 - **HTML5** — foco em marcação semântica e acessível
 - **Unsplash** — banco de imagens livre para uso comercial
-- **Favicon & logomarca** — criados via IA generativa (Leonardo.Ai)
+- **Favicon & logomarca** — criados via IA generativa (Leonardo.Ai) e favicon.cc com pequenas modificações usando o Paint do Windows e circlecropimage.com .
 
 ---
 
