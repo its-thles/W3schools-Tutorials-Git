@@ -20,7 +20,7 @@
       minhas habilidades em HTML para criar páginas web envolventes e
       funcionais.
     </p>
-    <a href="../../../index.html">Voltar</a>
+    <a href="../../../index.php">Voltar</a>
     <hr />
     <h2>Structuring the page with HTML</h2>
     <p>Okay, listen up people because this is <em>important</em>!</p>
