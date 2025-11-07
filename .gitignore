@@ -1,0 +1,51 @@
+# ===========================
+# BASIC IGNORE TEMPLATE (PHP)
+# ===========================
+
+# VS Code configs
+.vscode/
+.history/
+*.code-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Cache de PHP
+.cache/
+.phpunit.result.cache
+*.pid
+
+# Arquivos de ambiente/senhas
+.env
+.env.local
+.env.*
+
+# Uploads e arquivos gerados localmente
+uploads/
+temp/
+tmp/
+
+# Backups e configs locais
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Sistema de build ou servidores locais
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# XAMPP ou diretórios externos
+htdocs/
+xampp/
+mysql/
+apache/

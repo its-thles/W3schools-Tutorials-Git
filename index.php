@@ -32,3 +32,8 @@
     </ul>
   </body>
 </html>
+<?php
+// This is a simple PHP file that serves as the main index page for a front-end developer's project hub.
+// It includes basic HTML structure, metadata, and links to various projects and skill sets. 
+echo "Page loaded successfully.";
+?>
